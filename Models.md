@@ -3,7 +3,8 @@
 We should have: Operation, Account, Users, (AnalysisResult).
 
 Operation should have :
- - a linked account (acc number col: 0 + acc name: 2)
+ - an id
+ - a linked Account (acc number col: 0 + acc name: 2)
  - a linked counterpart Account (acc number col: 12 + acc name col: 14)
  - a date (col: 5)
  - a description (col: 6)
@@ -11,13 +12,17 @@ Operation should have :
  - a communication (col: 16 OR 17)
 
 Account should have :
+- an id
 - a name
 - an account number
+- a list of Operation
 
 Users should have :
+ - an id
  - a username
  - a password
+ - an Account
  - (permissions?)
- - ref to file repository
+ - ref to file directory
 
 

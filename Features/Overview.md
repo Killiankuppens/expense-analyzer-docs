@@ -1,7 +1,7 @@
 # Basic features
 
- - Read a CSV
- - Group expense based on the bank account number & name
+ - Process a CSV
+ - Link an operation to an account
  - Filter grouped expenses
  - Give the total income
  - Give the total expense
