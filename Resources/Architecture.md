@@ -11,9 +11,6 @@ Produce families of related objects without specifying their croncrete classes.
 
 Construct complex objects step by step.
 
-
-
-
 # Micro-service architecture
 
 Can be a good idea if we have multiple DBs and want to decouple services.
