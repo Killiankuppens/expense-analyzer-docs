@@ -17,6 +17,7 @@ This table contains every operations that is handled by the CSV processing.
 | operation_amount | The amount of the operation |
 | operation_comm | The communication specified in the operation |
 | creation_date | The date of creation of the entry |
+| operation_custom_name | Name choosed by the user for a specific operation|
 
 ## Accounts
 
