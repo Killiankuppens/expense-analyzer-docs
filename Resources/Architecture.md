@@ -41,3 +41,6 @@ In our case, the an index on the "counterpart_acc_id" might be useful.
 Make a list of all the queries your application is making to the particular table and figure out which column is the most commonly used WHERE clause or JOIN ON clause. 
 
 [Real example of the benefits indexes can give](https://medium.com/the-software-firehose/how-to-choose-a-table-index-for-your-sql-database-d47715a35f34)
+
+## Run PostgreSQL with PgAdmin on Podman
+https://dev.to/pr0pm/run-postgresql-pgadmin-in-pods-using-podman-386o
