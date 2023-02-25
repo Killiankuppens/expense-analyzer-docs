@@ -5,6 +5,7 @@
  - Filter grouped expenses
  - Give the total income
  - Give the total expense
+ - Security
 
 # Long term features
 
@@ -17,6 +18,7 @@
  - Upload a ZIP/RAR/Compressed file with multiple expense sheets in CSV
  - Add more file support
  - List, download and delete precedent files
+ - Allow the user to configure the column used for data selection
 
 # Containerization
 - Should host the db

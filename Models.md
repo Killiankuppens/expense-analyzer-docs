@@ -7,7 +7,7 @@ Operation should have :
  - a linked Account (acc number col: 0 + acc name: 2)
  - a linked counterpart Account (acc number col: 12 + acc name col: 14)
  - a date (col: 5)
- - a description (col: 6)
+ - an operation type (col: 6)
  - an amount (col: 8)
  - a communication (col: 16 OR 17)
 
