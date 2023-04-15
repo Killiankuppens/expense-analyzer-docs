@@ -4,7 +4,7 @@ We should have: Operation, Account, Users, (AnalysisResult).
 
 Operation should have :
  - an id
- - a linked Account (acc number col: 0 + acc name: 2)
+ - a linked user (the user currently connected)
  - a linked counterpart Account (acc number col: 12 + acc name col: 14)
  - a date (col: 5)
  - an operation type (col: 6)
