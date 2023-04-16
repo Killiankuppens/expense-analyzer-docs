@@ -11,7 +11,7 @@ This table contains every operations that is handled by the CSV processing.
 | Column | Explanation |
 |----------|--------------|
 | operation_id | Id of the operation |
-| counterpart_acc_id | The account that receives the amount of the operation |
+| counterpart_acc_id | The account that receives the transaction |
 | user_id| The user |
 | execution_date | The date of execution of the operaiton |
 | operation_amount | The amount of the operation |
