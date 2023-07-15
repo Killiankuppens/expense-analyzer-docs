@@ -44,3 +44,9 @@ Make a list of all the queries your application is making to the particular tabl
 
 ## Run PostgreSQL with PgAdmin on Podman
 https://dev.to/pr0pm/run-postgresql-pgadmin-in-pods-using-podman-386o
+
+## Retrieve the amounts for a specific time period
+
+There is 2 possibilities for this to happen, we either :
+ - Create a DTO to contain the amounts of all the operations (total, incoming, coming out) and also the operations a OperationSummary array
+ - Just return the total of the operations in the current OperationSummary => if done this way, functionalities are set in stone/no possibility of amelioration without refactor it
